@@ -1,0 +1,3 @@
+# SE-370
+Project from my Introduction to Software Engineering class where I created a secure and convenient Java application for users to store passwords in a MySQL database for multiple accounts with 3 other students.
+Introduction to software engineering fundamentals including principles, processes, best practices, and tools to construct mid-sized software products. Includes an introduction of the software development lifecycle and comparison of software process models, modern design techniques, and modeling practices. Students will be grouped into teams to work on a semester-long project in a modern development framework. Also included is an introduction to the ethical and professional responsibilities in software engineering.
